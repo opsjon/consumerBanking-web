@@ -3,7 +3,7 @@
   <body>
     <h2>Hello World!</h2>
     <pre>
-      2
+      It's ok.
     </pre>
   </body>
 </html>
