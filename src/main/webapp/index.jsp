@@ -3,7 +3,7 @@
   <body>
     <h2>Hello World!</h2>
     <pre>
-      Nice.
+      1
     </pre>
   </body>
 </html>
